@@ -7,8 +7,8 @@ public class Calculadora {
 
         System.out.println("A soma dos numeros digitados é: " + (primeiroValor + segundoValor));
 System.out.println("A subtração dos numeros digitados é: " + (primeiroValor - segundoValor));
-System.out.println("A multiplicao dos numeros digitados é: " + (primeiroValor  segundoValor));
-
+System.out.println("A multiplicao dos numeros digitados é: " + (primeiroValor * segundoValor));
+System.out.println("A divisão dos numeros digitados é: " + (primeiroValor /  segundoValor));
 
 
 }
